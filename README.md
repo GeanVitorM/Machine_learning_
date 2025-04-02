@@ -51,6 +51,8 @@ Treinando o modelo com base em diferentes algoritimos como Gradient Boosting, Ra
 
 **Python**
 
+## Resultados 
+![Captura de tela 2025-04-02 165823](https://github.com/user-attachments/assets/04e930d7-dfaa-4d55-a55c-a21b12c98b76)
 
 ## Autores
 
